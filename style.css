@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.a{
+    color: turquoise;
+}
+.b{
+    color: coral;
+}
+body{
+    background-color: BLACK;
+    font-family:'Poppins', sans-serif;
+}
+.pro{
+    color: yellow;
+}
+hr{
+    border-style: dotted;
+    border-width: 10px;
+    border-color: grey ;
+    width: 6%;
+    border-style: dotted none none;
+}
